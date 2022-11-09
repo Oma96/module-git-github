@@ -3,3 +3,5 @@ Content:
  C'est le meilleur CRM du marché
 
  si vous avez deja un compte, se connecter ici==> login.txt
+
+ si vous voulez ajouter une prestation, cliquez ici ==> prestation.txt

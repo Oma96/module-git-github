@@ -1,0 +1,5 @@
+const name= document.queryselector("name");
+const content= document.queryselector("content");
+if(name.value.length>10){
+    throw new Error('name trop long')
+}
