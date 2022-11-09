@@ -1,2 +1,2 @@
 Title: Formation Java Sopra Steria
-Description: une formation fullstack de J2EE et angular
+Description: une formation fullstack de J2EE et angular.spring aussi est ensigné

@@ -1,2 +1,3 @@
 Title: M2i formation
-Content: une excellente formation
+Content:
+ une excellente formation
